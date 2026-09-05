@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+dist-ssr/
+
+# Local env / logs
+*.local
+*.log
+.DS_Store
+
+# Editor/OS
+.vscode/
+.idea/
+
+# Test artifacts
+coverage/
